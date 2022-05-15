@@ -1,6 +1,18 @@
 # Magic: The Gathering
 
 # Guilds (2 colors)
+| Colors | Ravnica | Focus
+|---|---|---|
+| WU | Azorious | Stall and control
+| UB | Dimir | Mill
+| BR | Rakdos | Sacrifice and damage
+| RG | Gruul | Big creatures
+| GW | Selesyna | Creature tokens
+| WR | Boros | Battle enhancements
+| RU | Izzet | Enhance Spells
+| UG | Simic | boosting creature stats
+| GB | Golgari | graveyard manipulation
+| BW | Orzhov | hand control 
 
 # shards (3 colors)
 | Colors | Alara block | Khans | Capenna |
